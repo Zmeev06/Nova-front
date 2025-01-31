@@ -1,0 +1,49 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint-test": "eslint '**/*{.ts,.js,.vue}'",
+    "lint-fix": "eslint --fix '**/*{.ts,.js,.vue}'",
+    "stylelint-test": "stylelint '**/*{.css,.scss,.vue}'",
+    "stylelint-fix": "stylelint --fix '**/*{.css,.scss,.vue}'"
+  },
+  "dependencies": {
+    "gsap": "^3.12.7",
+    "locomotive-scroll": "^4.1.4",
+    "nuxt": "^3.15.2",
+    "sass": "^1.83.4",
+    "smooth-scrollbar": "^8.8.4",
+    "stylelint-config-recommended": "^13.0.0",
+    "stylelint-config-standard": "^34.0.0",
+    "vue": "latest",
+    "vue-router": "latest",
+    "yandex-metrika-module-nuxt3": "^1.5.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.62.0",
+    "@typescript-eslint/parser": "^5.62.0",
+    "@vue/eslint-config-typescript": "^11.0.3",
+    "@vueuse/core": "^12.4.0",
+    "@vueuse/nuxt": "^12.4.0",
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier-vue": "^4.2.0",
+    "eslint-plugin-vue": "^9.14.1",
+    "prettier": "^2.8.8",
+    "stylelint": "^15.11.0",
+    "stylelint-config-recommended-scss": "^13.1.0",
+    "stylelint-config-recommended-vue": "^1.5.0",
+    "stylelint-config-standard-scss": "^11.1.0",
+    "stylelint-order": "^6.0.3",
+    "vite-plugin-eslint": "^1.8.1",
+    "vite-svg-loader": "^4.0.0",
+    "vue-eslint-parser": "^9.3.1"
+  }
+}
