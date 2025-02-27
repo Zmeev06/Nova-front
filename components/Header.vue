@@ -5,13 +5,13 @@
       <nav class="header-nav">
         <ul class="header-nav__list">
           <li class="header-nav__list-item">
-            <a class="header-nav__link" href="#about_us">О нас</a>
+            <a class="header-nav__link" href="#about">О нас</a>
           </li>
           <li class="header-nav__list-item">
             <a class="header-nav__link" href="#advantages">Преимущества</a>
           </li>
           <li class="header-nav__list-item">
-            <a class="header-nav__link" href="#how_start">Как начать?</a>
+            <a class="header-nav__link" href="#stages">Как начать?</a>
           </li>
           <li class="header-nav__list-item">
             <a class="header-nav__link" href="#faq">FAQ</a>

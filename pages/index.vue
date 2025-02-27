@@ -4,6 +4,7 @@
     <About />
     <Advantages />
     <Stages />
+    <Calk />
     <Faq />
     <Form />
   </main>

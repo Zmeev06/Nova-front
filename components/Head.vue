@@ -11,7 +11,7 @@
         <div class="head-text">
           <div class="head-text-bid">
             <p class="head-text-bid__text">Ваш путь к звёздному успеху в мире стриминга!</p>
-            <button class="head-text-bid__button">Оставить заявку</button>
+            <a href="#contact_us"><button class="head-text-bid__button">Оставить заявку</button></a>
           </div>
           <h1 class="head-text__title">NOVA</h1>
         </div>

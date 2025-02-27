@@ -1,5 +1,5 @@
 <template>
-  <section ref="container" class="advantages">
+  <section id="advantages" ref="container" class="advantages">
     <div class="advantages-content">
       <div class="advantages-header">
         <h3 class="advantages-header__title">Преимущества сотрудничества</h3>
@@ -12,7 +12,7 @@
           Присоединяйтесь к нам и откройте для себя мир возможностей в стриминге! Мы уверены, что с нами вы сможете не только
           зарабатывать, но и наслаждаться процессом, развивая свои таланты и создавая уникальный контент для своих зрителей.
         </p>
-        <button class="advantages-header__button">Оставить заявку</button>
+        <a href="#contact_us"><button class="advantages-header__button">Оставить заявку</button></a>
       </div>
       <div class="advantages-info">
         <AdvantageItem

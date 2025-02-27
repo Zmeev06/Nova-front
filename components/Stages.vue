@@ -1,5 +1,5 @@
 <template>
-  <section class="stages">
+  <section id="stages" class="stages">
     <div class="stages-content">
       <div class="stages-header">
         <h3 class="stages-header__title">Как начать работу с нами?</h3>
